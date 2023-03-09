@@ -35,13 +35,13 @@ If you want to submit a new feature or a bugfix, the best way is to create the c
 
 ### To translate content into other languages
 
-If you want to help translate to other languages or improve existing translations, it isn't necessary to work from GitHub. You can and should do it through Crowdin, this is the correct workflow.
-
-Crowdin is an online tool that facilitates the user experience for the translator, here is more information:
+To help with localization, please read the [TRANSLATION](TRANSLATION.md) guide.
 
 Website translations are handled via [Crowdin](https://crowdin.com/project/nodejs-website).
 
-To help with localization, please read the [TRANSLATION](TRANSLATION.md) guide.
+Crowdin is an online tool that facilitates the user experience for the translator.
+
+To assist with translations, it is neither necessary, nor advised, to work from GitHub. You should do it through Crowdin, which is the correct workflow.
 
 ## Layout
 
